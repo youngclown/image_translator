@@ -1,0 +1,4 @@
+# Requirements for Image Text Translator
+pillow>=9.0.0
+pytesseract>=0.3.8
+googletrans==4.0.0-rc1
